@@ -1,5 +1,5 @@
 #incldue <iostream>
 
 int main() {
-	std::cout << "Hello World!" << std::endl;
+	std::cout << "fight on!" << std::endl;
 }
